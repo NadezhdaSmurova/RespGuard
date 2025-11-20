@@ -1,0 +1,7 @@
+git clone https://github.com/<your_username>/respira-guard-audio.git
+cd respira-guard-audio
+
+python -m venv .venv
+source .venv/bin/activate    # Windows: .venv\Scripts\activate
+
+pip install -r requirements.txt

@@ -1,0 +1,6 @@
+numpy>=1.22
+opencv-python>=4.5
+moviepy>=1.0.0
+librosa>=0.9
+soundfile>=0.12
+ipython>=8.0
