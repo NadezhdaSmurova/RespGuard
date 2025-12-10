@@ -6,13 +6,9 @@ Prototype for research and hackathon experiments only.
 RespGuard analyzes cough, wheeze, and breathing patterns directly from ordinary video/audio — no sensors or wearables needed.
 Goal: explore how early warning signals could look if a camera understood breathing.
 
-🎥 Demo Previews
-
-Replace the GIF placeholders with your own demo results.
-
 
 1️⃣ Cough / wheeze spikes
-<video src="assests/demo.mp4" controls width="600"></video>
+https://github.com/NadezhdaSmurova/RespGuard/blob/main/assets/demo.mp4
 
 🔒 Privacy & Child Safety
 
