@@ -12,8 +12,10 @@ The goal: explore what **early warning signals** could look like if a baby camer
 ## 🎬 Demo
 
 Short demo of the dashboard overlay (turn on the sound):
-![Demo](assets/demo.mp4)
-![](../../../../var/folders/8l/mc3rqjrd0lb30dqk34h719kw0000gn/T/TemporaryItems/NSIRD_screencaptureui_M08sO8/IMG.png)
+
+![Demo](assets/output_wheeze_2.gif)
+
+![RespGuard demo](assets/demo.png)
 
 ---
 
