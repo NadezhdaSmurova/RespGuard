@@ -81,6 +81,7 @@ You can also point the script to your own .mp4 files by placing them into
 examples/input/ or adapting the arguments (when moving to a CLI module).
 
 📂 Repository Structure
+```
 
 RespGuard/
 ├─ RespGuard.py          # main prototype script
@@ -93,6 +94,7 @@ RespGuard/
 └─ README.md
 (In the future this will be split into modules like audio_features.py,
 overlay.py, pipeline.py, etc.)
+```
 
 🧠 Risk Logic (Prototype)
 RespGuard uses very simple, hand-tuned thresholds.
