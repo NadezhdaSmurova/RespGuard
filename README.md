@@ -65,6 +65,8 @@ pip install -r requirements.txt
 
 # 3. Run the prototype on example videos
 python RespGuard.py
+```
+
 By default:
 
 Input: examples/input/
