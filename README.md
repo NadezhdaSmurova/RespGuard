@@ -13,8 +13,6 @@ The goal: explore what **early warning signals** could look like if a baby camer
 
 Short demo of the dashboard overlay (turn on the sound):
 
-![Demo](assets/output_wheeze_2.gif)
-
 ![RespGuard demo](assets/demo.png)
 
 ---
